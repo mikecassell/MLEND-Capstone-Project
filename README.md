@@ -23,4 +23,4 @@ To download the Kaggle dataset, simply login to Kaggle and go to https://www.kag
 The final model can be restored from the model.tflearn located in the Final directory. Due to the change to TF rc11, the mdoel generates some warnings on intialization but do not effect the training or inference operations (and should go away in a future TFLearn update.)
 
 ## Thanks
-I want to thank my wife Kaitlyn for her increadible support and patience in allowing me the time to work on and finish this project. I'd also like to give thanks to the Udacity team, my classmates advice in forums, the TensorFlow team and the TFLearn contributors.
+I want to thank my wife Kaitlyn for her incredible support and patience in allowing me the time to work on and finish this project. I'd also like to give thanks to the Udacity team, my classmates advice in forums, the TensorFlow team and the TFLearn contributors.
